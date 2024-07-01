@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "OmmPrakash",
+      "email": "ommprakash@gmail.com",
+      "mobile": 991122338877,
+      "address": "Hyderabad"
+    }
+  ],
+  "comments": [],
+  "signup": {
+    "id": "1",
+    "name": "OmmPrakash",
+    "email": "ommprakash@gmail.com",
+    "mobile": 991122338877,
+    "password": "Jai@hind7"
+  }
+}
